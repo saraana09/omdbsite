@@ -1,0 +1,12 @@
+.movie-card {
+    position: relative;
+    border: 1px solid black;
+}
+
+.empty-heart {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    right: 0;
+    height: 50px;
+}
